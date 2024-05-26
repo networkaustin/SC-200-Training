@@ -1,4 +1,4 @@
-# SC-200-Training
+# SC-200-Objectives
 *A list of exam objectives and links to where they are explained in Microsoft Learn*
 
 ## Skill Weighting
